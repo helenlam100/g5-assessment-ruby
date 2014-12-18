@@ -76,6 +76,6 @@ end
 
 #Parse the title, author and verses. Hmm look up JSON.parse
 #so didn't finish but am figuring out how to now: (i) parse hash by each line on the txt code rather than each word, or hard coding it which I've done above.
-#I think I may need to use yml or json. I didn't have enough time to research. OR I  need to find a way to separate each line in the txt file and run the code.
+# I didn't have enough time to research.  I  need to find a way to separate each line in the txt file and run the code.
 
 #make everything a hash
